@@ -9,4 +9,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@mishadevelop](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [your-email](mailto:misha.bevzenko@gmail.com)</code>
