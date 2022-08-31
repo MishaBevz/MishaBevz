@@ -7,5 +7,5 @@
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📦 Tech stack: Vue.js, React, nodejs</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@mishadevelop](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:misha.bevzenko@gmail.com)</code>
+<code>💬 telegram: [@mishadevelop](https://telegram.me/mishadevelop)</code>
+<code>📫 [misha.bevzenko@gmail.co](mailto:misha.bevzenko@gmail.com)</code>
