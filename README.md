@@ -5,7 +5,7 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
+<code>📦 Tech stack: Vue.js, React, nodejs</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@mishadevelop](https://telegram.me/your-nikname)</code>
 <code>📫 [your-email](mailto:misha.bevzenko@gmail.com)</code>
