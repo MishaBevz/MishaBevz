@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+web%2C+one+component+at+a+time;%E2%9A%A1+JavaScript+%7C+Vue.js+%7C+React+%7C+Node.js;%F0%9F%8C%90+Metarhia+Community+Member" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+web%2C+one+component+at+a+time;%E2%9A%A1+JavaScript+%7C+Vue.js+%7C+React+%7C+Node.js;%F0%9F%92%BB+Open+to+collaboration+%26+new+challenges" alt="Typing SVG" />
   </a>
 
 </div>
@@ -24,14 +24,12 @@
 
 ```yaml
 name: Misha Bevzenko
-location: Ukraine
 role: Software Engineer / Frontend Developer
-community: Metarhia
 
 currently:
   - 🔭 Working on frontend projects with modern JS frameworks
   - 🌱 Deepening knowledge in system design & backend architecture
-  - 💬 Ask me about JavaScript, Vue.js, React, Node.js, C++
+  - 💬 Ask me about JavaScript, Vue.js, React, Node.js
   - ⚡ Fun fact: I love turning complex problems into elegant UI solutions
 
 contacts:
@@ -47,7 +45,7 @@ contacts:
 
 #### 💻 Languages
   
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="Languages"/>
 
 #### ⚡ Frameworks & Libraries
 
