@@ -95,7 +95,7 @@ contacts:
 ## 🤝 &nbsp;Connect With Me
 
 <div align="center">
-  <a href="https://telegram.me/mishadevelop" target="_blank">
+  <a href="https://telegram.me/itman001" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:misha.bevzenko@gmail.com" target="_blank">
