@@ -33,7 +33,7 @@ currently:
   - ⚡ Fun fact: I love turning complex problems into elegant UI solutions
 
 contacts:
-  telegram: "@mishadevelop"
+  telegram: "@itman001"
   email: "misha.bevzenko@gmail.com"
 ```
 
