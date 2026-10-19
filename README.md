@@ -31,10 +31,6 @@ currently:
   - 🌱 Deepening knowledge in system design & backend architecture
   - 💬 Ask me about JavaScript, Vue.js, React, Node.js
   - ⚡ Fun fact: I love turning complex problems into elegant UI solutions
-
-contacts:
-  telegram: "@itman001"
-  email: "misha.bevzenko@gmail.com"
 ```
 
 <br>
@@ -95,12 +91,6 @@ contacts:
 ## 🤝 &nbsp;Connect With Me
 
 <div align="center">
-  <a href="https://telegram.me/itman001" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:misha.bevzenko@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://github.com/MishaBevz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
